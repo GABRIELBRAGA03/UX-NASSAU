@@ -1,0 +1,66 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.Container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    }
+.img_login{
+    
+    width: 70%;
+    margin: 0 auto;
+    padding: 2%;
+}
+.Form {
+    display: flex;
+    flex-direction: column ;
+    gap: 4px;
+}
+
+.FormDados {
+    gap: 5;
+    width: 454px;
+    height: 713.068px;
+   
+}
+
+
+
+.CampoDados{
+    display: inline;
+    width: 40%;    
+    width: 435px;
+    height: 55.522px;
+    flex-shrink: 0;
+    border-radius: 40px;
+    border: 1px solid #49BBBD;
+    background: #FFF;
+}
+
+.CampoLogin {
+    width: 435px;
+    height: 55.522px;
+    border-radius: 40px;
+    border: 1px solid #49BBBD;
+    background: #FFF;
+}
+
+
+.TagDados{
+    width: 100%;
+    padding: 0 5%;
+}
+
+.TextAbertura{
+    width: 454px;
+    height: 63px;
+    flex-shrink: 0;
+    color: #5B5B5B;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
