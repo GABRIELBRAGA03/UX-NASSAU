@@ -1,0 +1,22 @@
+.Container{
+display: flex;
+ 
+}
+.img_pesquisa{
+    max-width:100%
+
+}
+
+.Produtos{    
+    max-width:350px;
+    max-height:950px;
+   
+}
+
+.rodape{
+    text-align: center;
+    background: #006F71;
+    width: 100%;
+    height: 300px;
+flex-shrink: 0;
+}
